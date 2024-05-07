@@ -19,6 +19,6 @@ gui_r0ma (instagram)
 
 ## ⭐ GitHub Stats
 
-[![card](https://github-readme-stats.vercel.app/api?username=GuiRomanholi&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=GuiRomanholi&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
