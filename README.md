@@ -21,4 +21,6 @@ gui_r0ma (instagram)
 
 [![card](https://github-readme-stats.vercel.app/api?username=GuiRomanholi&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiRomanholi&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
