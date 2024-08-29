@@ -1,6 +1,6 @@
 <div>
             
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Guilherme!+👋🏼;You+can+call+me+Romanholi!&size=38&color=#20B2AA&height=50&width=500)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Guilherme!+👋🏼;You+can+call+me+Gui!&size=32&color=#20B2AA&height=50&width=700&duration=6000&pause=3000)](https://git.io/typing-svg)
 
 🎓 System Analysis and Development - FIAP.
 
@@ -10,10 +10,7 @@
 
 💼 In search of an internship opportunity.
 
-🔭 Atualmente cursando FIAP-ADS.
-
-💬 Contatos:
-gui_r0ma (instagram)
+💬 Reach Me: gui_r0ma (instagram)
 </div>
 
 ---
