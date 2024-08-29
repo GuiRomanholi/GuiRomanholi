@@ -1,11 +1,20 @@
-## 💜 Olá, meu nome é Guilherme!
+<div>
+            
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Guilherme!+👋🏼;You+can+call+me+Romanholi!&size=35&color=836fff&height=50&width=500)](https://git.io/typing-svg)
 
-Sou um desenvolvedor de software e programador, pronto para aprender, criar e evoluir.
+🎓 System Analysis and Development - FIAP.
+
+📚 Dedicated student with a passion for problem-solving and innovative solutions development.
+
+🚀 Determined to grow professionally, I am open to new challenges and learning opportunities.
+
+💼 In search of an internship opportunity.
 
 🔭 Atualmente cursando FIAP-ADS.
 
 💬 Contatos:
 gui_r0ma (instagram)
+</div>
 
 ---
 
