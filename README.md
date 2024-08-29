@@ -1,6 +1,6 @@
 <div>
             
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Guilherme!+👋🏼;You+can+call+me+Romanholi!&size=35&color=#20B2AA&height=60&width=600)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Guilherme!+👋🏼;You+can+call+me+Romanholi!&size=50&color=#20B2AA&height=50&width=500)](https://git.io/typing-svg)
 
 🎓 System Analysis and Development - FIAP.
 
