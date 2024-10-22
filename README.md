@@ -28,6 +28,10 @@
 ## Tools 🛠️
 <img src="https://skillicons.dev/icons?i=idea,vscode,react,vite,github,git" />
 
+## 📫 Reach Me 📫
+<a href="https://www.linkedin.com/in/guilherme-romanholi-6b71782b7/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>‎ ‎ ‎
+<a href = "mailto:guilhermeroma343@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>‎
+
 ## ⭐ GitHub Stats
 
 [![card](https://github-readme-stats.vercel.app/api?username=GuiRomanholi&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiRomanholi&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
