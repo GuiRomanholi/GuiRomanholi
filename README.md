@@ -17,7 +17,7 @@
 
 ## Languages and Tools I'm Learning 💻
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,ts,react,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,ts,react,python,cs,cpp,dotnet,tailwind,vite,windows,linux&perline=8)](https://skillicons.dev)
 
 ## Tools 🛠️
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,pycharm,git,github,figma)](https://skillicons.dev)
