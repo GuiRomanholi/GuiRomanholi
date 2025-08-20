@@ -20,7 +20,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,ts,react,python,cs,cpp,dotnet,tailwind,vite,windows,linux&perline=8)](https://skillicons.dev)
 
 ## Tools 🛠️
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,pycharm,git,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,pycharm,git,github,figma,docker)](https://skillicons.dev)
 
 ## 📫 Reach Me 📫
 <a href="https://www.linkedin.com/in/guilherme-romanholi-6b71782b7/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>‎ ‎ ‎
