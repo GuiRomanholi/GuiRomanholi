@@ -19,7 +19,7 @@
 
 ## 🛠️ Tools I Use  
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,pycharm,git,github,figma,docker&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,pycharm,git,github,figma,docker,postman,rider&perline=8)](https://skillicons.dev)
 
 ---
 
