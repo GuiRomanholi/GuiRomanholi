@@ -13,7 +13,7 @@
 
 ## 🚀 Languages & Technologies  
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,react,python,cs,cpp,dotnet,html,css,tailwind,vite,spring,linux&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,react,python,cs,cpp,dotnet,html,css,tailwind,vite,spring,linux,next&perline=8)](https://skillicons.dev)
 
 ---
 
